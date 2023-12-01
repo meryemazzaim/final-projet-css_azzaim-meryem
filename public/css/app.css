@@ -11856,6 +11856,21 @@ textarea.form-control-lg {
     display: none !important;
   }
 }
+.img1 {
+  background-image: url(../img/slider.jpg);
+  height: 90vh;
+}
+
+.img2 {
+  background-image: url(../img/slider2.jpg);
+  height: 90vh;
+}
+
+.img3 {
+  background-image: url(../img/slider3.jpg);
+  height: 90vh;
+}
+
 .section2 {
   text-align: center;
   font-weight: 600;
@@ -11922,17 +11937,14 @@ textarea.form-control-lg {
   background-color: rgba(42, 96, 182, 0.701);
 }
 
+.foat1 {
+  height: 25vh;
+}
+
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-}
-
-.img1 {
-  background-image: url(../img/slider.jpg);
-  height: 75vh;
-  width: 100vw;
-  background-size: cover;
 }
 
 /*# sourceMappingURL=app.css.map */
